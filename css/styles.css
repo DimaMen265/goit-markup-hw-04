@@ -174,7 +174,7 @@ main {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/main-page/bg-hero/bg-hero-1.png);
+    url(/images/main-page/bg-hero/bg-hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -191,8 +191,6 @@ main {
   letter-spacing: var(--primary-letter-spacing);
   color: var(--primary-white-color);
   max-width: 496px;
-  margin: 0 auto;
-  margin-bottom: 48px;
   display: block;
 }
 
@@ -212,7 +210,6 @@ main {
   min-width: 169px;
   height: 56px;
   padding: 16px 32px;
-  margin: 0 auto;
   display: block;
 }
 
