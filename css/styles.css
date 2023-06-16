@@ -175,7 +175,7 @@ main {
       rgba(46, 47, 66, 0.7)
     ),
     url(/images/main-page/bg-hero/img-1.jpg);
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   padding: 188px 0;
