@@ -730,5 +730,5 @@ main {
 
 .icon-close:hover,
 .icon-close:focus {
-  fill: var(--primary-white-color);
+  fill: #ffffff;
 }
