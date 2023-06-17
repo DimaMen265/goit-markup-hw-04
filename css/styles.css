@@ -712,21 +712,16 @@ main {
 
 .button-close:hover,
 .button-close:focus {
-  background-color: #404bbf;
-  border: none;
   background-color: var(--primary-ocean-color);
+  border: none;
+  fill: var(--primary-white-color);
 }
 
 .icon-close {
-  fill: #2e2f42;
-  position: absolute;
-  padding: 8px;
-  width: 24px;
-  height: 24px;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .icon-close:hover,
 .icon-close:focus {
-  fill: #ffffff;
+  fill: var(--primary-white-color);
 }
