@@ -718,6 +718,7 @@ main {
 }
 
 .icon-close {
+  fill: #2e2f42;
   position: absolute;
   padding: 8px;
   width: 24px;
